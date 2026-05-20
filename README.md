@@ -1,5 +1,5 @@
 # Cardiothoracic-Ratio-Ai-V2
-AI-powered cardiothoracic ratio estimation from chest X-rays using deep learning and computer vision.
+AI-powered cardiothoracic ratio estimation from chest X-rays using deep learning and computer vision. An improvement on the previous model
 
 # AI-Based Cardiothoracic Ratio Measurement
 
